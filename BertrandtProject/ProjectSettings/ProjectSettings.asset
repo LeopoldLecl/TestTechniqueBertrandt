@@ -977,7 +977,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 9fa9eeb8-0dd2-435d-aa95-7a9eb82a5f79
   framebufferDepthMemorylessMode: 0
